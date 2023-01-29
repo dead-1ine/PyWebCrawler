@@ -12,3 +12,8 @@ B. Web Crawler의 구조
 - URL Filter: 특정 HTML 페이지에서 <a> 태그 혹은 <html> 태그 등의 URL을 분류한다.
 - Dup URL Elim: 방문한 페이지를 다시 방문하는 Loop가 발생하지 않도록 중복된 URL을 제거하여 Frontier에 넘긴다.
 위 과정들을 반복하여 웹페이지를 방문한다.
+
+사용 기술
+---
+- Programming Language: Python, Go
+- Server Framework: FastAPI, Flask
