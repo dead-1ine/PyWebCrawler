@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PyWebCrawler.iml" filepath="$PROJECT_DIR$/.idea/PyWebCrawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastapi-webcrawler.iml" filepath="$PROJECT_DIR$/fastapi-webcrawler.iml" />
     </modules>
   </component>
 </project>
